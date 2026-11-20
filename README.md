@@ -1,9 +1,4 @@
-# Análisis complejo — Primer cuatrimestre de 2011
-
-## Equipo docente
-
-- **Clases teóricas:** Jorge Zilber
-- **Clases prácticas:** Nicolas Saintier, Marco Spinelli
+# Análisis Complejo — Primer cuatrimestre de 2011
 
 ## Prácticas
 
@@ -15,13 +10,6 @@
 - [práctica 6](complejo6.pdf)
 - [práctica 7](complejo7.pdf)
 - [práctica 8](complejo8.pdf)
-
-## Bibliografía
-
-- H. Cartan, Teoría elemental de funciones analiticas de una o varias variables complejas.
-- L. Ahlfors, Complex analysis.
-- W. Rudin, Real and complex analysis.
-- S. Lang, Complex analysis.
 
 ## Página original
 
